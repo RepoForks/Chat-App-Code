@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tubiapp.demochatxmpp.ChatActivity">
+    <item
+        android:id="@+id/action_addmember"
+        android:orderInCategory="100"
+        android:title="Change Group Name"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_admingrant"
+        android:orderInCategory="100"
+        android:title="Admin Grant"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ownergrant"
+        android:orderInCategory="100"
+        android:title="Owner Grant"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_remove_admingrant"
+        android:orderInCategory="100"
+        android:title="Remove Admin Grant"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_remove_ownergrant"
+        android:orderInCategory="100"
+        android:title="Remove Owner Grant"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_listparticipant"
+        android:orderInCategory="100"
+        android:title="List Participants"
+        app:showAsAction="never" />
+
+</menu>

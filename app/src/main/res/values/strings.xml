@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoChatXMPP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="hint.email">Email</string>
+    <string name="hint.pass">Password</string>
+    <string name="hint.chat_person">Username you want to chat</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="button.text.send">Send</string>
+    <string name="edt.chat.hint">Type a message...</string>
+</resources>
